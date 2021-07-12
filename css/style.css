@@ -44,7 +44,7 @@ h6:last-child {
     margin-bottom: 0;
 }
 p {
-    line-height: 1.8;
+    line-height: 1.5;
     margin-bottom: 15px;
     color: #828893;
 }
@@ -1502,9 +1502,9 @@ img {
     font-weight: 600;
     margin-bottom: 15px;
 }
-.tab .tabs_item .tabs_item_content p {
-    margin-bottom: 0;
-}
+/*.tab .tabs_item .tabs_item_content p {*/
+/*    margin-bottom: 0;*/
+/*}*/
 .tab .tabs_item .tabs_item_content ul {
     padding: 0;
     list-style-type: none;
